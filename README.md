@@ -4,3 +4,4 @@
 - When an element falls from a certain distance along y-axis it increases its speed and if we add a single value per frame then it looks linear and not like gravity.
 - Then comes friction which is used to decrease the value of velocity which happens on real objects and friction is added only when it touches the bottom.
 - With these two things we can code gravity.
+- I have tried the effect of chaotic bounce in my code where it bounces from left to right and stops when it completely touches the ground
